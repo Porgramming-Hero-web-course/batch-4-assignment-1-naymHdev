@@ -1,5 +1,5 @@
 {
-  // Problem -1
+  // Problem 1:
 
   const sumArray = (numbers: number[]): number => {
     let total: number = 0;
@@ -12,7 +12,7 @@
   const numbers = [1, 2, 3, 4, 5];
   const total = sumArray(numbers);
 
-  console.log(`Sum of all elements output = ${total}`);
+  // console.log(`Sum of all elements output = ${total}`);
 
   //
 }
