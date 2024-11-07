@@ -12,7 +12,7 @@
   const numbers = [1, 2, 3, 4, 5];
   const total = sumArray(numbers);
 
-  console.log(`sum of all elements output = ${total}`);
+  console.log(`Sum of all elements output = ${total}`);
 
   //
 }
