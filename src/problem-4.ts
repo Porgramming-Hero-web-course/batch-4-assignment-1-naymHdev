@@ -32,8 +32,8 @@
     height: 6,
   });
 
-  console.log("circleArea:", circleArea);
-  console.log("rectangleArea:", rectangleArea);
+  // console.log("circleArea:", circleArea);
+  // console.log("rectangleArea:", rectangleArea);
 
   //
 }
