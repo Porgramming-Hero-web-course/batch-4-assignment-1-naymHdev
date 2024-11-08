@@ -8,7 +8,7 @@
 
   const mewArray = removeDuplicates(numbers);
 
-//   console.log(`New array with duplicates removed = ${mewArray}`);
+  // console.log(`New array with duplicates removed = ${mewArray}`);
 
   //
 }
